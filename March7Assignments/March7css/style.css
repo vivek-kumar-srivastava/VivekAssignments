@@ -1,0 +1,31 @@
+ body{
+    background-color: rgb(31, 72, 72);
+    }
+h1{
+    background-color: aqua;
+    color: red;
+}
+#div1{
+background-color: "lavendar";
+}
+#div2{
+    font-size: 40px;
+    font-weight: bold;
+    background-color: palegreen;
+    color: blueviolet;
+}
+#div3{
+    background-color: chartreuse;
+    color: red;
+    border-radius: 20px;
+    box-shadow: 3px 3px 5px rgb(100,10,10);
+}
+#p1{
+    background-color: darkgoldenrod;
+    color: rgb(255, 247, 18);
+    display: block;
+}
+#span1{
+    background-color: rgb(13, 49, 49);
+    color: aliceblue;
+}
