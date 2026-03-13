@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\March11Assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C728D6-5C9F-4772-9BD4-9596753A2C42}|MVCdemo\\MVCdemo.csproj|c:\\users\\lenovo\\source\\repos\\march11assignments\\mvcdemo\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7C728D6-5C9F-4772-9BD4-9596753A2C42}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C728D6-5C9F-4772-9BD4-9596753A2C42}|MVCdemo\\MVCdemo.csproj|c:\\users\\lenovo\\source\\repos\\march11assignments\\mvcdemo\\views\\home\\collectionofobjectpassing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7C728D6-5C9F-4772-9BD4-9596753A2C42}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\views\\home\\collectionofobjectpassing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C728D6-5C9F-4772-9BD4-9596753A2C42}|MVCdemo\\MVCdemo.csproj|c:\\users\\lenovo\\source\\repos\\march11assignments\\mvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C728D6-5C9F-4772-9BD4-9596753A2C42}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C728D6-5C9F-4772-9BD4-9596753A2C42}|MVCdemo\\MVCdemo.csproj|c:\\users\\lenovo\\source\\repos\\march11assignments\\mvcdemo\\models\\employee\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C728D6-5C9F-4772-9BD4-9596753A2C42}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\models\\employee\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C728D6-5C9F-4772-9BD4-9596753A2C42}|MVCdemo\\MVCdemo.csproj|c:\\users\\lenovo\\source\\repos\\march11assignments\\mvcdemo\\views\\home\\singleobjectpass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7C728D6-5C9F-4772-9BD4-9596753A2C42}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\views\\home\\singleobjectpass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C728D6-5C9F-4772-9BD4-9596753A2C42}|MVCdemo\\MVCdemo.csproj|c:\\users\\lenovo\\source\\repos\\march11assignments\\mvcdemo\\views\\home\\sampledemo3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7C728D6-5C9F-4772-9BD4-9596753A2C42}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\views\\home\\sampledemo3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C728D6-5C9F-4772-9BD4-9596753A2C42}|MVCdemo\\MVCdemo.csproj|c:\\users\\lenovo\\source\\repos\\march11assignments\\mvcdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7C728D6-5C9F-4772-9BD4-9596753A2C42}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "display.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March11Assignments\\MVCdemo\\Views\\Home\\display.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo\\Views\\Home\\display.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March11Assignments\\MVCdemo\\Views\\Home\\display.cshtml*",
+              "RelativeToolTip": "MVCdemo\\Views\\Home\\display.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T06:27:18.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "collectionofobjectpassing.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March11Assignments\\MVCdemo\\Views\\Home\\collectionofobjectpassing.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo\\Views\\Home\\collectionofobjectpassing.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March11Assignments\\MVCdemo\\Views\\Home\\collectionofobjectpassing.cshtml",
+              "RelativeToolTip": "MVCdemo\\Views\\Home\\collectionofobjectpassing.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T06:09:54.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "singleobjectpass.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March11Assignments\\MVCdemo\\Views\\Home\\singleobjectpass.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo\\Views\\Home\\singleobjectpass.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March11Assignments\\MVCdemo\\Views\\Home\\singleobjectpass.cshtml",
+              "RelativeToolTip": "MVCdemo\\Views\\Home\\singleobjectpass.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T05:26:29.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee\u0027.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March11Assignments\\MVCdemo\\Models\\Employee\u0027.cs",
+              "RelativeDocumentMoniker": "MVCdemo\\Models\\Employee\u0027.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March11Assignments\\MVCdemo\\Models\\Employee\u0027.cs",
+              "RelativeToolTip": "MVCdemo\\Models\\Employee\u0027.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:19:19.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March11Assignments\\MVCdemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March11Assignments\\MVCdemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCdemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T05:07:43.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sampledemo3.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March11Assignments\\MVCdemo\\Views\\Home\\sampledemo3.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo\\Views\\Home\\sampledemo3.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March11Assignments\\MVCdemo\\Views\\Home\\sampledemo3.cshtml",
+              "RelativeToolTip": "MVCdemo\\Views\\Home\\sampledemo3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T04:55:17.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March11Assignments\\MVCdemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCdemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March11Assignments\\MVCdemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCdemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:34:15.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
