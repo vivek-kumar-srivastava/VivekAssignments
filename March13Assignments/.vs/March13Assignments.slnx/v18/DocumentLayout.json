@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\March13Assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1CC5F5-B71B-9E43-6DF4-20526890B220}|March13Assignments\\March13Assignments.csproj|c:\\users\\lenovo\\source\\repos\\march13assignments\\march13assignments\\views\\dog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC1CC5F5-B71B-9E43-6DF4-20526890B220}|March13Assignments\\March13Assignments.csproj|solutionrelative:march13assignments\\views\\dog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1CC5F5-B71B-9E43-6DF4-20526890B220}|March13Assignments\\March13Assignments.csproj|c:\\users\\lenovo\\source\\repos\\march13assignments\\march13assignments\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC1CC5F5-B71B-9E43-6DF4-20526890B220}|March13Assignments\\March13Assignments.csproj|solutionrelative:march13assignments\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1CC5F5-B71B-9E43-6DF4-20526890B220}|March13Assignments\\March13Assignments.csproj|c:\\users\\lenovo\\source\\repos\\march13assignments\\march13assignments\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1CC5F5-B71B-9E43-6DF4-20526890B220}|March13Assignments\\March13Assignments.csproj|solutionrelative:march13assignments\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1CC5F5-B71B-9E43-6DF4-20526890B220}|March13Assignments\\March13Assignments.csproj|c:\\users\\lenovo\\source\\repos\\march13assignments\\march13assignments\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1CC5F5-B71B-9E43-6DF4-20526890B220}|March13Assignments\\March13Assignments.csproj|solutionrelative:march13assignments\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1CC5F5-B71B-9E43-6DF4-20526890B220}|March13Assignments\\March13Assignments.csproj|c:\\users\\lenovo\\source\\repos\\march13assignments\\march13assignments\\views\\dog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC1CC5F5-B71B-9E43-6DF4-20526890B220}|March13Assignments\\March13Assignments.csproj|solutionrelative:march13assignments\\views\\dog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1CC5F5-B71B-9E43-6DF4-20526890B220}|March13Assignments\\March13Assignments.csproj|c:\\users\\lenovo\\source\\repos\\march13assignments\\march13assignments\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC1CC5F5-B71B-9E43-6DF4-20526890B220}|March13Assignments\\March13Assignments.csproj|solutionrelative:march13assignments\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March13Assignments\\March13Assignments\\Views\\Dog\\Details.cshtml",
+              "RelativeDocumentMoniker": "March13Assignments\\Views\\Dog\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March13Assignments\\March13Assignments\\Views\\Dog\\Details.cshtml",
+              "RelativeToolTip": "March13Assignments\\Views\\Dog\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T09:10:40.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March13Assignments\\March13Assignments\\Views\\Dog\\Index.cshtml",
+              "RelativeDocumentMoniker": "March13Assignments\\Views\\Dog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March13Assignments\\March13Assignments\\Views\\Dog\\Index.cshtml",
+              "RelativeToolTip": "March13Assignments\\Views\\Dog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T08:33:14.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March13Assignments\\March13Assignments\\Views\\Dog\\Create.cshtml",
+              "RelativeDocumentMoniker": "March13Assignments\\Views\\Dog\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March13Assignments\\March13Assignments\\Views\\Dog\\Create.cshtml",
+              "RelativeToolTip": "March13Assignments\\Views\\Dog\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:23:58.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March13Assignments\\March13Assignments\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "March13Assignments\\Controllers\\DogController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March13Assignments\\March13Assignments\\Controllers\\DogController.cs",
+              "RelativeToolTip": "March13Assignments\\Controllers\\DogController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:16:36.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March13Assignments\\March13Assignments\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "March13Assignments\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March13Assignments\\March13Assignments\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "March13Assignments\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:02:56.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March13Assignments\\March13Assignments\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "March13Assignments\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March13Assignments\\March13Assignments\\Models\\Dog.cs",
+              "RelativeToolTip": "March13Assignments\\Models\\Dog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:00:16.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
