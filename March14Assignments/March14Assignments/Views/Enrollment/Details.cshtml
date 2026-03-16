@@ -1,0 +1,28 @@
+﻿@model March14Assignments.Models.StudentDetailVM
+
+<h2>Student Details</h2>
+
+<h3>@Model.Name</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Course</th>
+            <th>Level</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var c in Model.Courses)
+        {
+            <tr>
+                <td>@c.Title</td>
+                <td>@c.Level</td>
+                <td>@c.Description</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Index">Back</a>
