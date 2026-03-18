@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\March18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\views\\dept\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\dept\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\controllers\\deptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\controllers\\deptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\lenovo\\source\\repos\\march18\\layoutandsectionexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Models\\Employee.cs",
+              "RelativeToolTip": "LayoutAndSectionExample\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:10:45.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LayoutAndSectionExample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:03:38.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "LayoutAndSectionExample\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:13:32.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_MyLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Shared\\_MyLayout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Shared\\_MyLayout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:20:26.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Models\\Department.cs",
+              "RelativeToolTip": "LayoutAndSectionExample\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:10:23.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\Dept\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Dept\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\Dept\\Index.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Dept\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:25:53.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\Emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Emp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\Emp\\Index.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Emp\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:26:33.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeptController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Controllers\\DeptController.cs",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Controllers\\DeptController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Controllers\\DeptController.cs",
+              "RelativeToolTip": "LayoutAndSectionExample\\Controllers\\DeptController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:13:02.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:09:27.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:07:48.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:04:39.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:34:08.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T07:04:09.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\appsettings.Development.json",
+              "RelativeToolTip": "LayoutAndSectionExample\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T06:07:12.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\appsettings.json",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\appsettings.json",
+              "RelativeToolTip": "LayoutAndSectionExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T06:04:24.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\March18\\LayoutAndSectionExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:04:06.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
