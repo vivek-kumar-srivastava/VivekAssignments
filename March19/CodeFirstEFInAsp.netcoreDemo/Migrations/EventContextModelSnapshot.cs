@@ -155,6 +155,30 @@ namespace CodeFirstEFInAsp.netcoreDemo.Migrations
                     b.ToTable("employees");
                 });
 
+            modelBuilder.Entity("CodeFirstEFInAsp.netcoreDemo.Models.Post", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Body")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("DatePublished")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("posts");
+                });
+
             modelBuilder.Entity("CodeFirstEFInAsp.netcoreDemo.Models.Product", b =>
                 {
                     b.Property<int>("ProductID")

@@ -1,5 +1,6 @@
-using Microsoft.EntityFrameworkCore;
 using CodeFirstEFInAsp.netcoreDemo.Models;
+using CodeFirstEFInAsp.netcoreDemo.Repositories;
+using Microsoft.EntityFrameworkCore;
 namespace CodeFirstEFInAsp.netcoreDemo
 {
     public class Program
@@ -13,6 +14,9 @@ namespace CodeFirstEFInAsp.netcoreDemo
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+
+            builder.Services.AddScoped<IPost, PostRepository>();
 
             var app = builder.Build();
 

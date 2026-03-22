@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "D:\\VivekAssignments\\March19\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\views\\post\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\views\\post\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\repositories\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\repositories\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\models\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\models\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\models\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\models\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,10 +135,6 @@
       "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\migrations\\20260319043650_dbsetcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|d:\\vivekassignments\\march19\\codefirstefinasp.netcoredemo\\migrations\\20260319084402_two tables added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D36F6E1C-2486-0708-3DF9-7B5E0A2D10EB}|CodeFirstEFInAsp.netcoreDemo\\CodeFirstEFInAsp.netcoreDemo.csproj|solutionrelative:codefirstefinasp.netcoredemo\\migrations\\20260319084402_two tables added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -110,8 +146,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Controllers\\PostController.cs",
+              "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:37:15.752Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Delete.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Delete.cshtml",
+              "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T06:42:38.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Edit.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Edit.cshtml",
+              "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T06:42:05.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Create.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T06:41:29.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Details.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Details.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Details.cshtml",
+              "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T06:40:50.016Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -186,7 +288,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Index.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Views\\Post\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T06:39:59.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Repositories\\PostRepository.cs",
+              "ToolTip": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Repositories\\PostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:21:39.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Models\\Post.cs",
+              "ToolTip": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Models\\Post.cs",
+              "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:12:36.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Program.cs",
+              "ToolTip": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Program.cs",
+              "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:21:35.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPost.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Repositories\\IPost.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Repositories\\IPost.cs",
+              "ToolTip": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Repositories\\IPost.cs",
+              "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Repositories\\IPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:18:55.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "TransactionController.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Controllers\\TransactionController.cs",
@@ -199,20 +366,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "CreateProduct.cshtml",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Transaction\\CreateProduct.cshtml",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Views\\Transaction\\CreateProduct.cshtml",
-              "ToolTip": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Transaction\\CreateProduct.cshtml*",
-              "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Views\\Transaction\\CreateProduct.cshtml*",
+              "ToolTip": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Transaction\\CreateProduct.cshtml",
+              "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Views\\Transaction\\CreateProduct.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T09:50:48.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T09:50:48.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Models\\Customer.cs",
@@ -220,12 +386,11 @@
               "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T08:31:46.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T08:31:46.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Models\\Product.cs",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Models\\Product.cs",
@@ -233,12 +398,11 @@
               "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T08:34:49.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T08:34:49.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "CreateCustomer.cshtml",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Transaction\\CreateCustomer.cshtml",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Views\\Transaction\\CreateCustomer.cshtml",
@@ -246,12 +410,11 @@
               "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Views\\Transaction\\CreateCustomer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T09:03:25.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T09:03:25.216Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Models\\Student.cs",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Models\\Student.cs",
@@ -263,20 +426,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "EventContext.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Models\\EventContext.cs",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Models\\EventContext.cs",
               "ToolTip": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Models\\EventContext.cs",
               "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Models\\EventContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T04:23:48.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Summary.cshtml",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Transaction\\Summary.cshtml",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Views\\Transaction\\Summary.cshtml",
@@ -288,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "20260319084402_two tables added.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Migrations\\20260319084402_two tables added.cs",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Migrations\\20260319084402_two tables added.cs",
@@ -300,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "Author1.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Models\\Author1.cs",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Models\\Author1.cs",
@@ -312,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "UserDetail.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Models\\UserDetail.cs",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Models\\UserDetail.cs",
@@ -324,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "Course1.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Models\\Course1.cs",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Models\\Course1.cs",
@@ -336,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Models\\Course.cs",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Models\\Course.cs",
@@ -348,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Author.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Models\\Author.cs",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Models\\Author.cs",
@@ -360,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Models\\Employee.cs",
@@ -372,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Home\\Delete.cshtml",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Views\\Home\\Delete.cshtml",
@@ -384,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Views\\Home\\Edit.cshtml",
@@ -396,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Controllers\\HomeController.cs",
@@ -408,7 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Views\\Home\\Details.cshtml",
@@ -420,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Views\\Home\\Create.cshtml",
@@ -432,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "displayemp.cshtml",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Views\\Home\\displayemp.cshtml",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Views\\Home\\displayemp.cshtml",
@@ -444,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "20260319052101_four tables added.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Migrations\\20260319052101_four tables added.cs",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Migrations\\20260319052101_four tables added.cs",
@@ -456,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\appsettings.json",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\appsettings.json",
@@ -468,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "20260319043650_dbsetcreated.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Migrations\\20260319043650_dbsetcreated.cs",
               "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Migrations\\20260319043650_dbsetcreated.cs",
@@ -477,22 +640,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T04:36:51.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Program.cs",
-              "RelativeDocumentMoniker": "CodeFirstEFInAsp.netcoreDemo\\Program.cs",
-              "ToolTip": "D:\\VivekAssignments\\March19\\CodeFirstEFInAsp.netcoreDemo\\Program.cs",
-              "RelativeToolTip": "CodeFirstEFInAsp.netcoreDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T04:21:35.328Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VivekAssignments\\RoutingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|d:\\vivekassignments\\routingdemo\\routingdemo\\views\\student\\getstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\views\\student\\getstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|d:\\vivekassignments\\routingdemo\\routingdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|d:\\vivekassignments\\routingdemo\\routingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|d:\\vivekassignments\\routingdemo\\routingdemo\\views\\student\\fewcolumns.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\views\\student\\fewcolumns.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|d:\\vivekassignments\\routingdemo\\routingdemo\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|d:\\vivekassignments\\routingdemo\\routingdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\RoutingDemo\\RoutingDemo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "RoutingDemo\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\VivekAssignments\\RoutingDemo\\RoutingDemo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "RoutingDemo\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:13:40.293Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetStudent.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\RoutingDemo\\RoutingDemo\\Views\\Student\\GetStudent.cshtml",
+              "RelativeDocumentMoniker": "RoutingDemo\\Views\\Student\\GetStudent.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\RoutingDemo\\RoutingDemo\\Views\\Student\\GetStudent.cshtml",
+              "RelativeToolTip": "RoutingDemo\\Views\\Student\\GetStudent.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T06:00:20.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\RoutingDemo\\RoutingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "RoutingDemo\\Program.cs",
+              "ToolTip": "D:\\VivekAssignments\\RoutingDemo\\RoutingDemo\\Program.cs",
+              "RelativeToolTip": "RoutingDemo\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:29:14.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fewcolumns.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\RoutingDemo\\RoutingDemo\\Views\\Student\\fewcolumns.cshtml",
+              "RelativeDocumentMoniker": "RoutingDemo\\Views\\Student\\fewcolumns.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\RoutingDemo\\RoutingDemo\\Views\\Student\\fewcolumns.cshtml",
+              "RelativeToolTip": "RoutingDemo\\Views\\Student\\fewcolumns.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T05:26:02.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllStudents.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\RoutingDemo\\RoutingDemo\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeDocumentMoniker": "RoutingDemo\\Views\\Student\\GetAllStudents.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\RoutingDemo\\RoutingDemo\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeToolTip": "RoutingDemo\\Views\\Student\\GetAllStudents.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T05:25:10.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\RoutingDemo\\RoutingDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "RoutingDemo\\Models\\Student.cs",
+              "ToolTip": "D:\\VivekAssignments\\RoutingDemo\\RoutingDemo\\Models\\Student.cs",
+              "RelativeToolTip": "RoutingDemo\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:09:43.845Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

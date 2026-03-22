@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeFirstEFInAsp.netcoreDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+882746f28c2121397aed725293ec1df6dac1287d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2851f3b5f621c8d0ad9678d4ce0a0754012f2140")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeFirstEFInAsp.netcoreDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeFirstEFInAsp.netcoreDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
