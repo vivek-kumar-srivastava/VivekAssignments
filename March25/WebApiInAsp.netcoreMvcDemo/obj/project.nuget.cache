@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "26zwYI0dW4w=",
+  "dgSpecHash": "lo/9S73rfgc=",
   "success": true,
-  "projectFilePath": "D:\\VivekAssignments\\March24 - Copy\\WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj",
+  "projectFilePath": "D:\\VivekAssignments\\March25\\WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -4314,11 +4314,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VivekAssignments\\March24 - Copy\\WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj",
+      "projectUniqueName": "D:\\VivekAssignments\\March25\\WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj",
       "projectName": "WebApiInAsp.netcoreMvcDemo",
-      "projectPath": "D:\\VivekAssignments\\March24 - Copy\\WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj",
+      "projectPath": "D:\\VivekAssignments\\March25\\WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\VivekAssignments\\March24 - Copy\\WebApiInAsp.netcoreMvcDemo\\obj\\",
+      "outputPath": "D:\\VivekAssignments\\March25\\WebApiInAsp.netcoreMvcDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
