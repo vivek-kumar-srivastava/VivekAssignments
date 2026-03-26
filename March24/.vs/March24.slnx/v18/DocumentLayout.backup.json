@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march24\\webapiinasp.netcoremvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march24\\webapiinasp.netcoremvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march24\\webapiinasp.netcoremvcdemo\\migrations\\20260324055134_newdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\migrations\\20260324055134_newdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march24\\webapiinasp.netcoremvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march24\\webapiinasp.netcoremvcdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,9 +46,9 @@
               "Title": "EmpController.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March24\\WebApiInAsp.netcoreMvcDemo\\Controllers\\EmpController.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Controllers\\EmpController.cs",
-              "ToolTip": "D:\\VivekAssignments\\March24\\WebApiInAsp.netcoreMvcDemo\\Controllers\\EmpController.cs*",
-              "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Controllers\\EmpController.cs*",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAIwIUAAAAZAAAAAAAAAA==",
+              "ToolTip": "D:\\VivekAssignments\\March24\\WebApiInAsp.netcoreMvcDemo\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwBUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T06:01:00.151Z",
               "IsPinned": true,
@@ -56,17 +56,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March24\\WebApiInAsp.netcoreMvcDemo\\Program.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Program.cs",
               "ToolTip": "D:\\VivekAssignments\\March24\\WebApiInAsp.netcoreMvcDemo\\Program.cs",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T05:47:11.539Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -138,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EmpContext.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March24\\WebApiInAsp.netcoreMvcDemo\\Models\\EmpContext.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Models\\EmpContext.cs",
@@ -150,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March24\\WebApiInAsp.netcoreMvcDemo\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Controllers\\HomeController.cs",
@@ -162,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20260324055134_newDB.cs",
               "DocumentMoniker": "D:\\VivekAssignments\\March24\\WebApiInAsp.netcoreMvcDemo\\Migrations\\20260324055134_newDB.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Migrations\\20260324055134_newDB.cs",
@@ -174,13 +173,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\VivekAssignments\\March24\\WebApiInAsp.netcoreMvcDemo\\appsettings.json",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\appsettings.json",
               "ToolTip": "D:\\VivekAssignments\\March24\\WebApiInAsp.netcoreMvcDemo\\appsettings.json",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-24T05:44:28.522Z"
             },
@@ -195,6 +194,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T05:33:59.443Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

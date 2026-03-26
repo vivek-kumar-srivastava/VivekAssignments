@@ -19,9 +19,9 @@ namespace WebApiInAsp.netcoreMvcDemo.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<List<Employee>>> getemployees()
+        public IActionResult getemployees()
         {
-            return Ok(await _context.employees.ToListAsync());
+            return Ok(_context.employees.ToList());
         }
 
 
@@ -36,9 +36,10 @@ namespace WebApiInAsp.netcoreMvcDemo.Controllers
         [HttpPost]
         public async Task<ActionResult<List<Employee>>> AddEmployee(Employee emo)
         {
-            await _context.employees.AddAsync(emo);
+           await _context.employees.AddAsync(emo);
             await _context.SaveChangesAsync();
-            return Ok(await _context.employees.ToListAsync());
+            var list = await _context.employees.ToListAsync();
+            return Ok(list);
         }
 
 
