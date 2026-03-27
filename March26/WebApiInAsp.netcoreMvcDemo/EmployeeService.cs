@@ -165,10 +165,10 @@ namespace WebApiInAsp.netcoreMvcDemo
             var existing = await _context.employees.FindAsync(employee.Id);
             if (existing == null) return null;
 
-            existing.FirstName = employee.FirstName;
-            existing.LastName = employee.LastName;
-            existing.Email = employee.Email;
-            existing.Age = employee.Age;
+            existing.FirstName = employee.FirstName??existing.FirstName;
+            existing.LastName = employee.LastName??existing.LastName;
+            existing.Email = employee.Email ?? existing.Email;
+            existing.Age = employee.Age??existing.Age;
 
             if (image != null && image.Length > 0)
             {
