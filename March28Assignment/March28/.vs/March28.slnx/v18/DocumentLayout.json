@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|c:\\users\\lenovo\\desktop\\march28assignment\\march28\\productwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|c:\\users\\lenovo\\desktop\\march28assignment\\march28\\productwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|c:\\users\\lenovo\\desktop\\march28assignment\\march28\\productwebapi\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|c:\\users\\lenovo\\desktop\\march28assignment\\march28\\productwebapi\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|c:\\users\\lenovo\\desktop\\march28assignment\\march28\\productwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|c:\\users\\lenovo\\desktop\\march28assignment\\march28\\productwebapi\\migrations\\20260328052423_db public.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\migrations\\20260328052423_db public.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|c:\\users\\lenovo\\desktop\\march28assignment\\march28\\productwebapi\\models\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\models\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|c:\\users\\lenovo\\desktop\\march28assignment\\march28\\productwebapi\\models\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\models\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|c:\\users\\lenovo\\desktop\\march28assignment\\march28\\productwebapi\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|c:\\users\\lenovo\\desktop\\march28assignment\\march28\\productwebapi\\migrations\\20260328043000_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\migrations\\20260328043000_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|c:\\users\\lenovo\\desktop\\march28assignment\\march28\\productwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductData.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\ProductData.cs",
+              "RelativeDocumentMoniker": "ProductwebApi\\ProductData.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\ProductData.cs",
+              "RelativeToolTip": "ProductwebApi\\ProductData.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:37:30.955Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductwebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductwebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:31:45.712Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\IProduct.cs",
+              "RelativeDocumentMoniker": "ProductwebApi\\IProduct.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\IProduct.cs",
+              "RelativeToolTip": "ProductwebApi\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:33:58.291Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductwebApi\\models\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\models\\Product.cs",
+              "RelativeToolTip": "ProductwebApi\\models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:23:55.388Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductwebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\Program.cs",
+              "RelativeToolTip": "ProductwebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:27:18.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260328052423_db public.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\Migrations\\20260328052423_db public.cs",
+              "RelativeDocumentMoniker": "ProductwebApi\\Migrations\\20260328052423_db public.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\Migrations\\20260328052423_db public.cs",
+              "RelativeToolTip": "ProductwebApi\\Migrations\\20260328052423_db public.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:24:24.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\models\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "ProductwebApi\\models\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\models\\UpdateProductDto.cs",
+              "RelativeToolTip": "ProductwebApi\\models\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:57:30.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\models\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "ProductwebApi\\models\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\models\\CreateProductDto.cs",
+              "RelativeToolTip": "ProductwebApi\\models\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:57:12.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\models\\ProductContext.cs",
+              "RelativeDocumentMoniker": "ProductwebApi\\models\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\models\\ProductContext.cs",
+              "RelativeToolTip": "ProductwebApi\\models\\ProductContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:24:18.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260328043000_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\Migrations\\20260328043000_initial.cs",
+              "RelativeDocumentMoniker": "ProductwebApi\\Migrations\\20260328043000_initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\Migrations\\20260328043000_initial.cs",
+              "RelativeToolTip": "ProductwebApi\\Migrations\\20260328043000_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:30:00.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductwebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\March28Assignment\\March28\\ProductwebApi\\appsettings.json",
+              "RelativeToolTip": "ProductwebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-28T04:27:34.936Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
