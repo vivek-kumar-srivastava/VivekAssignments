@@ -1,97 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VivekAssignments\\March26 - Copy (2)\\",
+  "WorkspaceRootPath": "D:\\VivekAssignments\\March27\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\views\\employeeui\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\views\\employeeui\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\views\\employeeui\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\models\\employeebasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\models\\employeebasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\models\\employeebasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\views\\employeeui\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\views\\employeeui\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\views\\employeeui\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\views\\employeeui\\export.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\views\\employeeui\\export.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\views\\employeeui\\export.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\views\\employeeui\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\views\\employeeui\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\views\\employeeui\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\views\\employeeui\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\views\\employeeui\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\views\\employeeui\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\views\\employeeui\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\views\\employeeui\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\views\\employeeui\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\controllers\\employeeuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\controllers\\employeeuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\controllers\\employeeuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\models\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\models\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\models\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march26 - copy (2)\\webapiinasp.netcoremvcdemo\\migrations\\20260324055134_newdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|d:\\vivekassignments\\march27\\webapiinasp.netcoremvcdemo\\migrations\\20260324055134_newdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebApiInAsp.netcoreMvcDemo\\WebApiInAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\migrations\\20260324055134_newdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -102,43 +102,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "EmpController.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Controllers\\EmpController.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Controllers\\EmpController.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Controllers\\EmpController.cs",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Controllers\\EmpController.cs",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Controllers\\EmpController.cs",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Controllers\\EmpController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T06:01:00.151Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "EmployeeService.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\EmployeeService.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\EmployeeService.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\EmployeeService.cs",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\EmployeeService.cs",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\EmployeeService.cs",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\EmployeeService.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAgwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T04:22:30.426Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "IEmployee.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\IEmployee.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\IEmployee.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\IEmployee.cs",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\IEmployee.cs",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\IEmployee.cs",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\IEmployee.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -149,9 +147,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "EmployeeUIController.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Controllers\\EmployeeUIController.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Controllers\\EmployeeUIController.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Controllers\\EmployeeUIController.cs",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Controllers\\EmployeeUIController.cs",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Controllers\\EmployeeUIController.cs",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Controllers\\EmployeeUIController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -232,11 +230,36 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:33:31.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\Home\\Index2.cshtml",
+              "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Views\\Home\\Index2.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\Home\\Index2.cshtml",
+              "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Views\\Home\\Index2.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T06:05:30.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Index.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Index.cshtml",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Index.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Index.cshtml",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Index.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -244,37 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T05:33:31.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index2.cshtml",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\Home\\Index2.cshtml",
-              "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Views\\Home\\Index2.cshtml",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\Home\\Index2.cshtml",
-              "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Views\\Home\\Index2.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-26T06:05:30.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "EmployeeBasicDto.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Models\\EmployeeBasicDto.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Models\\EmployeeBasicDto.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Models\\EmployeeBasicDto.cs",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Models\\EmployeeBasicDto.cs",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Models\\EmployeeBasicDto.cs",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Models\\EmployeeBasicDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -284,9 +281,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Details.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Details.cshtml",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Details.cshtml",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Details.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Details.cshtml",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -296,9 +293,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Export.cshtml",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Export.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Export.cshtml",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Export.cshtml",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Export.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Export.cshtml",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Export.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -308,9 +305,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Edit.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Edit.cshtml",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Edit.cshtml",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Edit.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Edit.cshtml",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Edit.cshtml",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAFEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -320,9 +317,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Delete.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Delete.cshtml",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Delete.cshtml",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Delete.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Delete.cshtml",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Delete.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAiwDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -332,9 +329,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Create.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Create.cshtml",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Create.cshtml",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Create.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Create.cshtml",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Views\\EmployeeUI\\Create.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAiwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -344,9 +341,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABcAAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -356,9 +353,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Models\\Employee.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Models\\Employee.cs",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Models\\Employee.cs",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Models\\Employee.cs",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Models\\Employee.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -368,9 +365,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -380,9 +377,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "_MyLayout.cshtml",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\Shared\\_MyLayout.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\Shared\\_MyLayout.cshtml",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Views\\Shared\\_MyLayout.cshtml",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\Shared\\_MyLayout.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\Shared\\_MyLayout.cshtml",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Views\\Shared\\_MyLayout.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -392,9 +389,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "EmployeeUpdateDto.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Models\\EmployeeUpdateDto.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Models\\EmployeeUpdateDto.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Models\\EmployeeUpdateDto.cs",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Models\\EmployeeUpdateDto.cs",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Models\\EmployeeUpdateDto.cs",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Models\\EmployeeUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -404,9 +401,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -416,9 +413,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "EmpContext.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Models\\EmpContext.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Models\\EmpContext.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Models\\EmpContext.cs",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Models\\EmpContext.cs",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Models\\EmpContext.cs",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Models\\EmpContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -428,9 +425,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Program.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Program.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Program.cs",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Program.cs",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Program.cs",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -440,9 +437,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -452,17 +449,13 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "20260324055134_newDB.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Migrations\\20260324055134_newDB.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Migrations\\20260324055134_newDB.cs",
               "RelativeDocumentMoniker": "WebApiInAsp.netcoreMvcDemo\\Migrations\\20260324055134_newDB.cs",
-              "ToolTip": "D:\\VivekAssignments\\March26 - Copy (2)\\WebApiInAsp.netcoreMvcDemo\\Migrations\\20260324055134_newDB.cs",
+              "ToolTip": "D:\\VivekAssignments\\March27\\WebApiInAsp.netcoreMvcDemo\\Migrations\\20260324055134_newDB.cs",
               "RelativeToolTip": "WebApiInAsp.netcoreMvcDemo\\Migrations\\20260324055134_newDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T05:51:35.354Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }
