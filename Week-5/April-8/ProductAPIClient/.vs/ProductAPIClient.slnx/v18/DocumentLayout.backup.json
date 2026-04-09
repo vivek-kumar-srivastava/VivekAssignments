@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# Projects\\ProductAPIClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0929EAE7-8999-4322-B52A-52B3A6C4B543}|ProductAPIClient\\ProductAPIClient.csproj|e:\\c# projects\\productapiclient\\productapiclient\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0929EAE7-8999-4322-B52A-52B3A6C4B543}|ProductAPIClient\\ProductAPIClient.csproj|solutionrelative:productapiclient\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929EAE7-8999-4322-B52A-52B3A6C4B543}|ProductAPIClient\\ProductAPIClient.csproj|e:\\c# projects\\productapiclient\\productapiclient\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929EAE7-8999-4322-B52A-52B3A6C4B543}|ProductAPIClient\\ProductAPIClient.csproj|solutionrelative:productapiclient\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929EAE7-8999-4322-B52A-52B3A6C4B543}|ProductAPIClient\\ProductAPIClient.csproj|e:\\c# projects\\productapiclient\\productapiclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0929EAE7-8999-4322-B52A-52B3A6C4B543}|ProductAPIClient\\ProductAPIClient.csproj|solutionrelative:productapiclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929EAE7-8999-4322-B52A-52B3A6C4B543}|ProductAPIClient\\ProductAPIClient.csproj|e:\\c# projects\\productapiclient\\productapiclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0929EAE7-8999-4322-B52A-52B3A6C4B543}|ProductAPIClient\\ProductAPIClient.csproj|solutionrelative:productapiclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C# Projects\\ProductAPIClient\\ProductAPIClient\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductAPIClient\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\C# Projects\\ProductAPIClient\\ProductAPIClient\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductAPIClient\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAG4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T04:39:45.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\C# Projects\\ProductAPIClient\\ProductAPIClient\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductAPIClient\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\C# Projects\\ProductAPIClient\\ProductAPIClient\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductAPIClient\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:35:07.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\C# Projects\\ProductAPIClient\\ProductAPIClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductAPIClient\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\C# Projects\\ProductAPIClient\\ProductAPIClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductAPIClient\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T04:32:53.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C# Projects\\ProductAPIClient\\ProductAPIClient\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductAPIClient\\appsettings.json",
+              "ToolTip": "E:\\C# Projects\\ProductAPIClient\\ProductAPIClient\\appsettings.json",
+              "RelativeToolTip": "ProductAPIClient\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T04:22:44.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
