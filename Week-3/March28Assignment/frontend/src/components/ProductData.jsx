@@ -8,16 +8,16 @@ const ProductData = () => {
   const [category, setCategory] = useState("");
   const [products, setProducts] = useState([]);
 
-  const baseUrl = "https://localhost:7060/api/Product";
+  const baseUrl = "https://localhost:7060/api";
 
   // Load
   useEffect(() => {
     Load();
   }, []);
-
+console.log(products);
   const Load = async () => {
     try {
-      const res = await axios.get(baseUrl);
+      const res = await axios.get(`${baseUrl}/Product`);
       setProducts(res.data);
     } catch (err) {
       console.error(err);
@@ -28,7 +28,7 @@ const ProductData = () => {
   const save = async (e) => {
     e.preventDefault();
     try {
-      await axios.post(baseUrl, {
+      await axios.post(`${baseUrl}/Product`, {
         name,
         price: parseFloat(price),
         category,
@@ -54,7 +54,7 @@ const ProductData = () => {
   // Delete
   const deleteProduct = async (id) => {
     try {
-      await axios.delete(`${baseUrl}/${id}`);
+      await axios.delete(`${baseUrl}/product/${id}`);
       alert("Deleted Successfully");
       Load();
     } catch (err) {
@@ -66,7 +66,7 @@ const ProductData = () => {
   const update = async (e) => {
     e.preventDefault();
     try {
-      await axios.put(`${baseUrl}/${id}`, {
+      await axios.put(`${baseUrl}/product/${id}`, {
         name,
         price: parseFloat(price),
         category,

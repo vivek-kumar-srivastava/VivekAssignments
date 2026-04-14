@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ttZiiGEwOck=",
+  "dgSpecHash": "9v1UaDSZ6JM=",
   "success": true,
-  "projectFilePath": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\ProductwebApi.csproj",
+  "projectFilePath": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\ProductwebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

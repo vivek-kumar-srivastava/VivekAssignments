@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\ProductwebApi.csproj": {}
+    "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\ProductwebApi.csproj": {}
   },
   "projects": {
-    "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\ProductwebApi.csproj": {
+    "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\ProductwebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\ProductwebApi.csproj",
+        "projectUniqueName": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\ProductwebApi.csproj",
         "projectName": "ProductwebApi",
-        "projectPath": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\ProductwebApi.csproj",
+        "projectPath": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\ProductwebApi.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\obj\\",
+        "outputPath": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

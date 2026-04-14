@@ -1,5 +1,4 @@
-
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using ProductwebApi.models;
 
 namespace ProductwebApi
@@ -10,21 +9,19 @@ namespace ProductwebApi
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            // ✅ Register services BEFORE Build()
 
             builder.Services.AddDbContext<ProductContext>(options =>
-           options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
-
-            // Add services to the container.
+                options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
             builder.Services.AddScoped<IProduct, ProductData>();
 
-            var app = builder.Build();
-
+            // ✅ FIX: Add CORS here (before Build)
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy("AllowAll",
@@ -33,9 +30,12 @@ namespace ProductwebApi
                                     .AllowAnyHeader());
             });
 
+            var app = builder.Build();
+
+            // ✅ Use middleware AFTER Build()
+
             app.UseCors("AllowAll");
 
-            // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
@@ -45,7 +45,6 @@ namespace ProductwebApi
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-
 
             app.MapControllers();
 

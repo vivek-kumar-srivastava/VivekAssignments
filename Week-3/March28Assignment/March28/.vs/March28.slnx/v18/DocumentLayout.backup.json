@@ -1,45 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VivekAssignments\\March28Assignment\\March28\\",
+  "WorkspaceRootPath": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\march28assignment\\march28\\productwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\week-3\\march28assignment\\march28\\productwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\march28assignment\\march28\\productwebapi\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\march28assignment\\march28\\productwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\week-3\\march28assignment\\march28\\productwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\march28assignment\\march28\\productwebapi\\models\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\week-3\\march28assignment\\march28\\productwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\week-3\\march28assignment\\march28\\productwebapi\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\week-3\\march28assignment\\march28\\productwebapi\\models\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\models\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\march28assignment\\march28\\productwebapi\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\week-3\\march28assignment\\march28\\productwebapi\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\march28assignment\\march28\\productwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\week-3\\march28assignment\\march28\\productwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\march28assignment\\march28\\productwebapi\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\week-3\\march28assignment\\march28\\productwebapi\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\march28assignment\\march28\\productwebapi\\migrations\\20260328052423_db public.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\week-3\\march28assignment\\march28\\productwebapi\\migrations\\20260328052423_db public.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\migrations\\20260328052423_db public.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\march28assignment\\march28\\productwebapi\\migrations\\20260328043000_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\week-3\\march28assignment\\march28\\productwebapi\\migrations\\20260328043000_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\migrations\\20260328043000_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\march28assignment\\march28\\productwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|d:\\vivekassignments\\week-3\\march28assignment\\march28\\productwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8921F8BE-EC44-06B3-FB20-58608F1DEFA7}|ProductwebApi\\ProductwebApi.csproj|solutionrelative:productwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -50,15 +54,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductData.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\ProductData.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\ProductData.cs",
               "RelativeDocumentMoniker": "ProductwebApi\\ProductData.cs",
-              "ToolTip": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\ProductData.cs",
+              "ToolTip": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\ProductData.cs",
               "RelativeToolTip": "ProductwebApi\\ProductData.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAcwGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,11 +71,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ProductwebApi\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ProductwebApi\\Controllers\\ProductController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAUwEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -80,11 +84,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IProduct.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\IProduct.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\IProduct.cs",
               "RelativeDocumentMoniker": "ProductwebApi\\IProduct.cs",
-              "ToolTip": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\IProduct.cs",
+              "ToolTip": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\IProduct.cs",
               "RelativeToolTip": "ProductwebApi\\IProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,17 +97,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\models\\Product.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\models\\Product.cs",
               "RelativeDocumentMoniker": "ProductwebApi\\models\\Product.cs",
-              "ToolTip": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\models\\Product.cs",
+              "ToolTip": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\models\\Product.cs",
               "RelativeToolTip": "ProductwebApi\\models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T04:23:55.388Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -179,11 +182,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductwebApi\\Program.cs",
+              "ToolTip": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\Program.cs",
+              "RelativeToolTip": "ProductwebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T18:50:15.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UpdateProductDto.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\models\\UpdateProductDto.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\models\\UpdateProductDto.cs",
               "RelativeDocumentMoniker": "ProductwebApi\\models\\UpdateProductDto.cs",
-              "ToolTip": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\models\\UpdateProductDto.cs",
+              "ToolTip": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\models\\UpdateProductDto.cs",
               "RelativeToolTip": "ProductwebApi\\models\\UpdateProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,11 +207,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductContext.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\models\\ProductContext.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\models\\ProductContext.cs",
               "RelativeDocumentMoniker": "ProductwebApi\\models\\ProductContext.cs",
-              "ToolTip": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\models\\ProductContext.cs",
+              "ToolTip": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\models\\ProductContext.cs",
               "RelativeToolTip": "ProductwebApi\\models\\ProductContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,11 +219,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ProductwebApi\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "ProductwebApi\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -215,11 +231,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20260328052423_db public.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\Migrations\\20260328052423_db public.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\Migrations\\20260328052423_db public.cs",
               "RelativeDocumentMoniker": "ProductwebApi\\Migrations\\20260328052423_db public.cs",
-              "ToolTip": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\Migrations\\20260328052423_db public.cs",
+              "ToolTip": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\Migrations\\20260328052423_db public.cs",
               "RelativeToolTip": "ProductwebApi\\Migrations\\20260328052423_db public.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -227,11 +243,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "20260328043000_initial.cs",
-              "DocumentMoniker": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\Migrations\\20260328043000_initial.cs",
+              "DocumentMoniker": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\Migrations\\20260328043000_initial.cs",
               "RelativeDocumentMoniker": "ProductwebApi\\Migrations\\20260328043000_initial.cs",
-              "ToolTip": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\Migrations\\20260328043000_initial.cs",
+              "ToolTip": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\Migrations\\20260328043000_initial.cs",
               "RelativeToolTip": "ProductwebApi\\Migrations\\20260328043000_initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -239,15 +255,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\appsettings.json",
+              "DocumentMoniker": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\appsettings.json",
               "RelativeDocumentMoniker": "ProductwebApi\\appsettings.json",
-              "ToolTip": "D:\\VivekAssignments\\March28Assignment\\March28\\ProductwebApi\\appsettings.json",
+              "ToolTip": "D:\\VivekAssignments\\Week-3\\March28Assignment\\March28\\ProductwebApi\\appsettings.json",
               "RelativeToolTip": "ProductwebApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-28T04:27:34.936Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }
