@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# Projects\\cosmodemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|e:\\c# projects\\cosmodemo\\cosmodemo\\views\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|solutionrelative:cosmodemo\\views\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|e:\\c# projects\\cosmodemo\\cosmodemo\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|solutionrelative:cosmodemo\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|e:\\c# projects\\cosmodemo\\cosmodemo\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|solutionrelative:cosmodemo\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|e:\\c# projects\\cosmodemo\\cosmodemo\\views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|solutionrelative:cosmodemo\\views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|e:\\c# projects\\cosmodemo\\cosmodemo\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|solutionrelative:cosmodemo\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|e:\\c# projects\\cosmodemo\\cosmodemo\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|solutionrelative:cosmodemo\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|e:\\c# projects\\cosmodemo\\cosmodemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|solutionrelative:cosmodemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|e:\\c# projects\\cosmodemo\\cosmodemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|solutionrelative:cosmodemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|e:\\c# projects\\cosmodemo\\cosmodemo\\data\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|solutionrelative:cosmodemo\\data\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|e:\\c# projects\\cosmodemo\\cosmodemo\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ADBED4-AC29-4853-8DA0-BA64AA0832CB}|cosmodemo\\cosmodemo.csproj|solutionrelative:cosmodemo\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Views\\Items\\Details.cshtml",
+              "RelativeDocumentMoniker": "cosmodemo\\Views\\Items\\Details.cshtml",
+              "ToolTip": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Views\\Items\\Details.cshtml",
+              "RelativeToolTip": "cosmodemo\\Views\\Items\\Details.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T06:30:45.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Views\\Items\\Delete.cshtml",
+              "RelativeDocumentMoniker": "cosmodemo\\Views\\Items\\Delete.cshtml",
+              "ToolTip": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Views\\Items\\Delete.cshtml",
+              "RelativeToolTip": "cosmodemo\\Views\\Items\\Delete.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAADQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T06:29:33.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Views\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "cosmodemo\\Views\\Items\\Create.cshtml",
+              "ToolTip": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Views\\Items\\Create.cshtml",
+              "RelativeToolTip": "cosmodemo\\Views\\Items\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T06:28:03.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "cosmodemo\\Controllers\\ItemsController.cs",
+              "ToolTip": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "cosmodemo\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:19:47.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Views\\Items\\Edit.cshtml",
+              "RelativeDocumentMoniker": "cosmodemo\\Views\\Items\\Edit.cshtml",
+              "ToolTip": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Views\\Items\\Edit.cshtml",
+              "RelativeToolTip": "cosmodemo\\Views\\Items\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T06:28:54.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Views\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "cosmodemo\\Views\\Items\\Index.cshtml",
+              "ToolTip": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Views\\Items\\Index.cshtml",
+              "RelativeToolTip": "cosmodemo\\Views\\Items\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T06:26:59.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Program.cs",
+              "RelativeDocumentMoniker": "cosmodemo\\Program.cs",
+              "ToolTip": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Program.cs",
+              "RelativeToolTip": "cosmodemo\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:18:12.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C# Projects\\cosmodemo\\cosmodemo\\appsettings.json",
+              "RelativeDocumentMoniker": "cosmodemo\\appsettings.json",
+              "ToolTip": "E:\\C# Projects\\cosmodemo\\cosmodemo\\appsettings.json",
+              "RelativeToolTip": "cosmodemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T06:07:14.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CosmosDbService.cs",
+              "DocumentMoniker": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Data\\CosmosDbService.cs",
+              "RelativeDocumentMoniker": "cosmodemo\\Data\\CosmosDbService.cs",
+              "ToolTip": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Data\\CosmosDbService.cs",
+              "RelativeToolTip": "cosmodemo\\Data\\CosmosDbService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:16:47.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Itemmodel.cs",
+              "DocumentMoniker": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Models\\Itemmodel.cs",
+              "RelativeDocumentMoniker": "cosmodemo\\Models\\Itemmodel.cs",
+              "ToolTip": "E:\\C# Projects\\cosmodemo\\cosmodemo\\Models\\Itemmodel.cs",
+              "RelativeToolTip": "cosmodemo\\Models\\Itemmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:15:37.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
